@@ -8,14 +8,51 @@
   color: white;
 }
 
-.black-btn{
+.dark-btn{
   background-color: black;
   color: white;
+  
 }
 
 button{
   border: 0;
   padding: 12px 33px;
-  border-radius: 10px;
-  margin: 10px;
+  border-radius: 4px;
+  margin: 6px;
+  color: white;
+  width: 108px;
+  height: 37px;
+  font-size: 10px;
+  cursor: pointer;
+  
+}
+
+.blue-btn{
+  background-color: rgb(91, 91, 255);
+}
+.gray-btn{
+  background-color: gray;
+}
+
+.yellow-btn{
+  background-color: yellow;
+  color: black;
+}
+
+.aqua-btn{
+  background-color: aqua;
+  color:black;
+}
+
+.white-btn{
+  background-color: white;
+  color: blue;
+  line-break: auto;
+  border-radius: 0px;
+
+}
+
+.light-btn{
+  background-color: rgb(240, 240, 240);
+  color: black;
 }
